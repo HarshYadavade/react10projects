@@ -1,0 +1,19 @@
+.contact {
+  /* background-color: green; */
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-left: 155px;
+}
+
+.contact h1 {
+  /* background-color: yellow; */
+  width: 315px;
+  height: 50px;
+  font-size: 38px;
+  font-weight: 700;
+}
+.contact p {
+  color: gray;
+  width: 975px;
+  height: 72px;
+}

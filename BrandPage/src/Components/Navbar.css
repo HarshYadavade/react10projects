@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 1280px;
+/* background-color: green; */
+height: 62px;
+margin: 0 auto;
+}
+
+ul{
+    /* background-color: yellow; */
+    list-style: none;
+    gap: 24px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+button{
+    all: unset;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    background-color: #D01C28;
+    padding: 6px 16px;
+    color: white;
+    border: none;
+    font-weight: 500;
+}
